@@ -1,6 +1,5 @@
 # Machine_learning_Indoor_localization_solution
 
-# An Improved WiFi Fingerprint-based Localization Solution
 Conventional fingerprint-based localization solutions requires site surveys at targets areas which are labour-extensive and time-consuming. The proposed solution leverages crowdsensing and semi-supervised learning techniques to reduce labour and time cost in conducting site surveys effectively.  
 
 # Crowd-sensing Techniques 
