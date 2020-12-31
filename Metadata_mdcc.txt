@@ -1,0 +1,21 @@
+Metadata for MDCC 
+
+Data format: pbf
+
+Attribute Information:
+- macID (string)
+- collectMode (int)
+- deviceInfo (string)
+- deviceBootTime (timestamp)
+- startTime (timestamp)
+- terminalTime (timestamp)
+- rssItems 
+	- scanNum (int)
+	- timestamp (timestamp)
+	- bssid (string)
+	- ssid (string)
+	- level (int)
+	- frequency (int)
+- totalScans (int)
+- realStepNum (int)
+
